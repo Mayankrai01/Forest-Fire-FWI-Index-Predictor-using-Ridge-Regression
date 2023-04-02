@@ -54,9 +54,7 @@ FWI Components
 
 # Model Building
 
-Regression
-
-* For regression analysis FWI(Fire weather Index) considered as dependent feature because it highly correlated with classes variable with more than 90% correlation.
+For regression analysis FWI(Fire weather Index) considered as dependent feature because it highly correlated with classes variable with more than 90% correlation.
 Models Tried:
 
 1. Linear regression
