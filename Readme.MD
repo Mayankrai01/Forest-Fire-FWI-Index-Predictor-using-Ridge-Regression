@@ -63,3 +63,4 @@ Models Tried:
 4. ElasticNet Regression
 
 Finally RIDGE REGRESSION model was selected as its performance was best as compared to others based on metrics like MEAN ABSOLUTE ERROR(MAE) and R2 SCORE.
+Also it performs better when we have to reduce overfitting as compared to other models.
