@@ -57,9 +57,11 @@ FWI Components
 Regression
 
 * For regression analysis FWI(Fire weather Index) considered as dependent feature because it highly correlated with classes variable with more than 90% correlation.
-Model Used:
+Models Tried:
 
 1. Linear regression
 2. Ridge Regression
 3. Lasso Regression
 4. ElasticNet Regression
+
+Finally RIDGE REGRESSION model was selected as its performance was best as compared to others based on metrics like MEAN ABSOLUTE ERROR(MAE) and R2 SCORE.
