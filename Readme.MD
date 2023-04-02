@@ -1,9 +1,9 @@
-#Algerian Forest Fires
+# Algerian Forest Fires
 
 * The dataset I used comes from UCI on Algerian Forest Fires. Forest fire observations and data from two regions of Algeria are included in this dataset: Bejaia and Sidi Bel-Abbes.
 * This dataset spans the period from June 2012 to September 2012. Our project examined the possibility of using Machine Learning algorithms to predict forest fires in these regions based on certain weather features.
 
-#Data Set Information:
+# Data Set Information:
 
 The dataset includes 244 instances that regroup a data of two regions of Algeria,namely the
 Bejaia region located in the northeast of Algeria and the Sidi Bel-abbes region located in the northwest of Algeria.
@@ -13,7 +13,7 @@ The dataset includes 11 attribues and 1 output attribue (class)
 The 244 instances have been classified into fire (138 classes) and not fire (106 classes) classes.
 
 
-#Attribute Information:
+# Attribute Information:
 
 1. Date : (DD/MM/YYYY) Day, month ('june' to 'september'), year (2012)
 
