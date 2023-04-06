@@ -64,3 +64,9 @@ Models Tried:
 
 Finally RIDGE REGRESSION model was selected as its performance was best as compared to others based on metrics like MEAN ABSOLUTE ERROR(MAE) and R2 SCORE.
 Also it performs better when we have to reduce overfitting as compared to other models.
+
+#Screenshot
+![image](https://user-images.githubusercontent.com/103130321/230306749-9368c814-f88f-46f1-960a-1f29aad0cff8.png)
+![image](https://user-images.githubusercontent.com/103130321/230306958-e6b469cd-f50b-43fe-928b-a78681e2d71c.png)
+
+
